@@ -1,0 +1,19 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: 'PT sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+ 
+html {
+    overflow-x: hidden;
+}
+
+/* body :is(h1, h2, h3 ,h4) {
+    color: white;
+} */

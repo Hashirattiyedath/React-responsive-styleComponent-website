@@ -1,0 +1,1 @@
+json-server --watch ./src/db.json --static ./src/images/thumbnails --port 9000
